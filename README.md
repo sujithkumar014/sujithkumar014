@@ -28,8 +28,5 @@ I'm a Final Year Electronics and Communication Engineering (ECE) student at **Dr
 
 ### 📊 GitHub Stats
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sujithkumar014&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujithkumar014&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujithkumar014&theme=tokyonight" />
 </p>
